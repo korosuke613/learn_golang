@@ -1,4 +1,4 @@
-package plactice
+package modules
 
 // fibonacci is a function that returns
 // a function that returns an int.

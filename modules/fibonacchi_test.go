@@ -1,4 +1,4 @@
-package plactice
+package modules
 
 import (
 	"reflect"
