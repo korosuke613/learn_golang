@@ -1,0 +1,2 @@
+# learn_golang
+Goを勉強するためのリポジトリ
